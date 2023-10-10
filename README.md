@@ -1,28 +1,64 @@
-<h1 align="center">Hi 👋, I'm Chetan Yadav</h1>
-<h3 align="center">DevOps Engineer with over 2.5 years of experience in AWS, Docker, and Cloud Implementations</h3>
+# I'm Chetan Yadav 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ychetan1651&label=Profile%20views&color=0e75b6&style=flat" alt="ychetan1651" /> </p>
+Living the DevOps dream in Surat, India! Currently orbiting the tech galaxy, managing hosting platforms like they're my own personal Starfleet. I'm your go-to guy for all things AWS, Docker, and Cloud. Here's a sneak peek into my universe:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ychetan1651" alt="ychetan1651" /></a> </p>
+📞 **Phone:** +91 7874286028 <br>
+📧 **Email:** yadavchetan881@gmail.com <br>
+💼 **LinkedIn:** [linkedin.com/in/ychetan1651](https://www.linkedin.com/in/ychetan1651) <br>
+🌐 **Upwork:** [upwork.com/ychetan16](https://tinyurl.com/ychetan16)
 
-- 🔭 I’m currently working wih [Ultimate Business System Pvt. Ltd.](https://ubsapp.com/)
 
-- 🌱 I’m currently learning **Python, Ruby**
+## 🚀 Experience
 
-- 💬 Ask me about **AWS, GCP, Kubernetes, Docker**
+### Upwork Ltd., Freelancing — DevOps Sorcerer
+_August 2023 - Present_
 
-- 📫 How to reach me **yadavchetan881@gmail.com**
+🔮 Juggled hosting platforms like a wizard on a caffeine high: cPanel, DigitalOcean, Hostinger, GoDaddy, Cloudflare.
+🎩 Mastered the art of setting up Laravel, Python, React, and Node.js projects on cPanel. GitHub? Integrated like peanut butter and jelly!
+🧙‍♂️ Commanded servers like they were my magical minions, ensuring they bow down to my every DevOps whim.
+🎯 Expert in DNS sorcery, domain registration spells, and SendGrid incantations for bewitchingly effective emails.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ychetan1651/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ychetan1651/" height="30" width="40" /></a>
-</p>
+### Ultimate Business System Pvt. Ltd., Surat, Gujarat — DevOps Magician
+_April 2021 - July 2023_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+🔥 Played with fire (responsibly) by creating task definitions, conjuring Docker containers, and mastering blue-green deployments.
+🔍 Explored the mystical realms of AWS: IAM, VPC, EC2, S3, EBS, ECS, and more. A true cloud sorcerer!
+🧪 Cooked up potent concoctions of Git and GitHub for version control and brewed elaborate CI/CD potions.
+🧙‍♂️ Summoned monitoring beasts like Nagios and Grafana to keep a watchful eye on our magical creations.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ychetan1651&show_icons=true&locale=en&layout=compact" alt="ychetan1651" /></p>
+## 🎩 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ychetan1651&show_icons=true&locale=en" alt="ychetan1651" /></p>
+- Proficient in Docker and Kubernetes: I make containers disappear and reappear with a flick of my wand!
+- Fluent in the language of Prometheus, Grafana, and ELK: I speak log fluently!
+- GitLab CI/CD? Oh, I've brewed the perfect potion for that!
+- Linux/Unix administration? I'm practically the Gandalf of the command line.
+- Database management? I tame MongoDB, MySQL, and PostgreSQL like they're adorable magical creatures.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ychetan1651&" alt="ychetan1651" /></p>
+## 📚 Education
+
+- **Bachelor Of Computer Application**
+  Dr. Babasaheb Ambedkar Open University, Surat, Gujarat
+
+- **12th Commerce**
+  Gujarat Higher Secondary Education Board, Surat, Gujarat
+
+## 🎓 Certifications
+
+- Google Cloud Certified Associate Cloud Sorcerer - Jun 2023 🎉
+- MongoDB SI Associate Sorcerer - Jun 2023 🧙
+- GitLab TeamOps Sorcerer - April 2023 🚀
+- GitLab Certified Git Sorcerer - July 2021 🪄
+- AWS Cloud Practitioner Sorcerer - April 2021 ☁️
+- IBM DevOps Sorcerer - April 2021 🌀
+
+## 🗣 Languages
+
+- **English:** Fluent in geek speak
+- **Hindi:** Fluent in tech babble
+- **Gujarati:** Fluent in code poetry
+- **Marathi:** Fluent in binary (and a bit of poetry too!)
+
+Feeling the magical vibes? Let's make some tech spells together! Abracadabra! ✨
+
+## Holopin Badges
+[![An image of @ychetan1651's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ychetan1651)](https://holopin.io/@ychetan1651)
